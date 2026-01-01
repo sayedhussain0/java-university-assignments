@@ -7,6 +7,10 @@ Based on the length of a, b, c, d check if the shape is rhombus or not:
   2) Not Rhombus: If all the sides a, b, c and d are not equal
 Afterwards, calculate and display the shape area using the following equation (If and only if it is a Rhombus):
               Area = d1*d2/2
+
+
+
+     
 (1) Sample Input/Output
 Enter side a, b, c and d= 15.0 15.0 15.0 15.0
 The shape is rhombus
