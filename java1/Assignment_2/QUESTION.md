@@ -9,7 +9,7 @@ Afterwards, calculate and display the shape area using the following equation (I
               Area = d1*d2/2
 
 
-
+**************************************************
      
 (1) Sample Input/Output
 
@@ -22,7 +22,7 @@ Enter diagonals d1 and d2 = 24
 Shape Area = 216
 
 
-
+**************************************************
 
 (2) Sample Input/Output
 
