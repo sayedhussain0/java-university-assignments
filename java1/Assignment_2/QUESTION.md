@@ -14,11 +14,8 @@ Afterwards, calculate and display the shape area using the following equation (I
 (1) Sample Input/Output
 
 Enter side a, b, c and d= 15.0 15.0 15.0 15.0
-
 The shape is rhombus
-
 Enter diagonals d1 and d2 = 24
-
 Shape Area = 216
 
 
