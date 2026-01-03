@@ -12,15 +12,22 @@ Additionally, the class should also include the following methods:
 5)  A method named printAll to print "RoomCarpet" information (variables).
 
 Create a main and create object as the following:
-*************************
-Name = Carpet 1 
-*************************
-Length = 3.0
-*************************
-Width = 4.0
-*************************
-Cost = 100.0
-*************************
-Area = 12.0
-*************************
-Total cost = 1200.0
+1) Name = Carpet 1
+2) Length = 3.0
+3) Width = 4.0
+4) Cost = 100.0
+
+Then call the method printAll to print the object.
+
+***************************************************************************
+Sample Output:
+
+Name: Carpet1
+
+Length: 3.0
+
+Width: 4.0
+
+cost: 100.0
+
+Area: 12.0
