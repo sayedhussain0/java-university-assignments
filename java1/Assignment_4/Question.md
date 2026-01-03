@@ -13,10 +13,14 @@ Additionally, the class should also include the following methods:
 
 Create a main and create object as the following:
 *************************
-Name = Chapter 1 
+Name = Carpet 1 
 *************************
-Length = 3
+Length = 3.0
 *************************
-Width = 4
+Width = 4.0
 *************************
-Cost = 100
+Cost = 100.0
+*************************
+Area = 12.0
+*************************
+Total cost = 1200.0
